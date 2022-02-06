@@ -1,1 +1,1 @@
-xws release && xws upload-test
+xws clear && xws release && xws upload-test
