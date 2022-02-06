@@ -6,6 +6,7 @@
         "**/*.md": "markdown",
         "**/*.yml": "yaml",
         "**/LICENSE": "TXT",
+        "**/*.py": "python",
         "**/*": "shellscript",
     },
     "files.trimTrailingWhitespace": true,
