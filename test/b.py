@@ -2,7 +2,7 @@ x = __import__("x-cmd")
 
 # import a
 
-import x_cmd
+import xrc
 
-x_cmd.hi()
+xrc.hi()
 

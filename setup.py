@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="xrc",
-    version="0.0.4",
+    name="x",
+    version="0.0.6",
     author="L",
     author_email="l@x-cmd.com",
     description="X Cmd Wrapper",
