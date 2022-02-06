@@ -1,1 +1,4 @@
+#! /usr/env/bin bash
+
+pip3 uninstall -y x-cmd
 pip3 install --index-url https://test.pypi.org/simple/ --no-deps x-cmd
