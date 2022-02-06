@@ -1,3 +1,4 @@
 build
 dist
 x_cmd.egg-info
+**/*.pyc
